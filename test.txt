@@ -1,0 +1,10 @@
+This is an Apache spark text file.
+It will let you run the sample project to
+get your hands dirty with spark.
+Spark is a new generation clustering computing
+solution
+It also uses the concept of Map reduce just like
+Hadoop
+before you get into spark
+make sure you know some basics of
+scala and functional paradigm
